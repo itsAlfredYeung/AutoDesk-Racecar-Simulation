@@ -3,6 +3,8 @@ School Project (DPS936)
 
 ---
 
+# Requirements
+
 For final project, you are requested to build a car racing simulation. You are requested to create two cars and animate them as they are racing during one lap. You may create a model for your car, or you can download models and import them into 3Ds Max. But, the models have to be textured. The following components are necessary to build: 
 
 * Two cars
